@@ -12,7 +12,7 @@ public class AlgorithmApplicationTests {
 
     @Test
     public void contextLoads() {
-        System.out.println(111);
+        System.out.println("Test");
     }
 
 }
