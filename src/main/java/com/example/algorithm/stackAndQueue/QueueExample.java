@@ -103,6 +103,9 @@ public class QueueExample {
         answer = time;
 
         return answer;
+
+
+
     }
     static class Truck {
         int weight;
@@ -114,3 +117,5 @@ public class QueueExample {
         }
     }
 }
+
+
